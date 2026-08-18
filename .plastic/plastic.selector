@@ -1,0 +1,4 @@
+repository "SpyGame/SpyGame@10171519437202@cloud"
+  path "/"
+    br "/main"
+    co "/main"
